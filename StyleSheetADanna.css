@@ -1,9 +1,16 @@
-﻿body
+﻿nav {
+    background-color: crimson;
+    height: 100vh;
+    float: left;
+}
+
+body
 {
 }
 
-main{
-
+#Main {
+    float: left;
+    display: block;
 }
 
 nav {
@@ -16,4 +23,40 @@ li {
     list-style-type: none;
     margin: 0;
     padding: 0;
+}
+
+#Information {
+    background-color: grey;
+    border: 5px solid black;
+    margin: 25px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.8);
+    width: 250px;
+}
+
+#skillsetsihave {
+    background-color: grey;
+    border: 5px solid black;
+    margin: 25px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.8);
+    width: 250px;
+}
+
+#ProjectsDone {
+    background-color: grey;
+    border: 5px solid black;
+    margin: 25px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.8);
+    width: 250px;
+}
+
+#Aboutme {
+    background-color: grey;
+    border: 5px solid black;
+    margin: 25px;
+    padding: 15px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.8);
+    width: 250px;
 }
