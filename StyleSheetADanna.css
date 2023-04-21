@@ -1,3 +1,19 @@
 ﻿body
 {
 }
+
+main{
+
+}
+
+nav {
+    background-color: crimson;
+    height: 100vh;
+    float: left;
+}
+
+li {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
